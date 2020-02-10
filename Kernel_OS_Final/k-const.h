@@ -1,7 +1,4 @@
-// k-const.h, 159
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// k-const.h
 
 #ifndef __K_CONST__
 #define __K_CONST__
