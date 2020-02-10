@@ -1,7 +1,4 @@
-// k-type.h, 159
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// k-type.h
 
 #ifndef __K_TYPE__
 #define __K_TYPE__
