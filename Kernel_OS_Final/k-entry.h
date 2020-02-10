@@ -1,8 +1,5 @@
 // k-entry.h
 // prototypes those in k-entry.S
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
 
 #ifndef __K_ENTRY__
 #define __K_ENTRY__
