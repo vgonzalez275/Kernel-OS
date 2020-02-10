@@ -1,7 +1,4 @@
-// k-sr.h, 159
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// k-sr.h
 
 #ifndef __K_SR__
 #define __K_SR__
