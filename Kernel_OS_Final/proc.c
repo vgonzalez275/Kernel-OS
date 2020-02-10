@@ -1,4 +1,4 @@
-// proc.c, 159
+// proc.c
 // all user processes are coded here
 // processes do not R/W kernel data or code, must use sys-calls
 
