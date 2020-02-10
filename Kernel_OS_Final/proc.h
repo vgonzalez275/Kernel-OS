@@ -1,7 +1,4 @@
-// proc.h, 159
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// proc.h
 
 #ifndef __K_PROC__
 #define __K_PROC__
