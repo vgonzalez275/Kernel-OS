@@ -1,9 +1,6 @@
-// k-data.h, 159
+// k-data.h
 // kernel data are all declared in main.c during bootstrap
 // kernel .c code reference them as 'extern'
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
 
 #ifndef __K_DATA__
 #define __K_DATA__
