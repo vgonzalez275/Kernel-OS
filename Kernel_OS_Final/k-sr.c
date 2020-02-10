@@ -1,7 +1,4 @@
-// k-sr.c, 159
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// k-sr.c
 
 #include "k-include.h"
 #include "k-type.h"
