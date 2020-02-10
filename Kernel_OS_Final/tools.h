@@ -1,7 +1,5 @@
-// tools.h, 159
-// OS phase 9
-// 
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
+// tools.h
+
 #ifndef __K_LIB__
 #define __K_LIB__
 
