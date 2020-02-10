@@ -1,8 +1,5 @@
-// k-include.h, CpE/CSc159
+// k-include.h
 // SPEDE library headers, ~spede2/Target-i386/Common/include/spede
-// OS phase 9
-//
-// Team Name: BJOS (Members: Brian Huang, Jupp Valdez, Veronica Gonzalez)
 
 #ifndef __K_INCLUDE__
 #define __K_INCLUDE__
